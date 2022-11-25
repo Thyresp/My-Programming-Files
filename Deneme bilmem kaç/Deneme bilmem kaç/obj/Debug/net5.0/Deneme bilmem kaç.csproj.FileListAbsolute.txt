@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.exe
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.deps.json
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.runtimeconfig.json
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.dll
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\bin\Debug\net5.0\Deneme bilmem kaç.pdb
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.dll
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\refint\Deneme bilmem kaç.dll
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.pdb
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\Deneme bilmem kaç.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Deneme bilmem kaç\Deneme bilmem kaç\obj\Debug\net5.0\ref\Deneme bilmem kaç.dll

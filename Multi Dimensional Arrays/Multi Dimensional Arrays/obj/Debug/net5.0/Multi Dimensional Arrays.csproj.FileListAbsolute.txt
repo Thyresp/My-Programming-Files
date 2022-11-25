@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.exe
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.deps.json
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.runtimeconfig.json
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.dll
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.pdb
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.dll
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\refint\Multi Dimensional Arrays.dll
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.pdb
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\ref\Multi Dimensional Arrays.dll

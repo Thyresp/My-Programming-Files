@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.exe
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.deps.json
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.runtimeconfig.json
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.dll
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\bin\Debug\net5.0\Challange Baby Teacher Solution.pdb
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.dll
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\refint\Challange Baby Teacher Solution.dll
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.pdb
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\Challange Baby Teacher Solution.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Challange Baby Teacher Solution\Challange Baby Teacher Solution\obj\Debug\net5.0\ref\Challange Baby Teacher Solution.dll

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\teoma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teoma\\.nuget\\packages"
+    ]
+  }
+}

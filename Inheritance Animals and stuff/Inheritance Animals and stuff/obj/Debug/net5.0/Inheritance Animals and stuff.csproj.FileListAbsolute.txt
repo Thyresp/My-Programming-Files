@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.exe
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.deps.json
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.runtimeconfig.json
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.dll
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\bin\Debug\net5.0\Inheritance Animals and stuff.pdb
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.dll
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\refint\Inheritance Animals and stuff.dll
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.pdb
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\Inheritance Animals and stuff.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Inheritance Animals and stuff\Inheritance Animals and stuff\obj\Debug\net5.0\ref\Inheritance Animals and stuff.dll

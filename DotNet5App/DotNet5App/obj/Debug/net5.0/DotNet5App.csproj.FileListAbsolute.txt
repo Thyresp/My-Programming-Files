@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.exe
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.deps.json
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.runtimeconfig.json
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.dll
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\bin\Debug\net5.0\DotNet5App.pdb
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.AssemblyInfo.cs
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.dll
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\refint\DotNet5App.dll
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.pdb
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\DotNet5App.genruntimeconfig.cache
+C:\Users\teoma\source\repos\DotNet5App\DotNet5App\obj\Debug\net5.0\ref\DotNet5App.dll

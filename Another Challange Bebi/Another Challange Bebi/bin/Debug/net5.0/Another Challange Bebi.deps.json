@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Another Challange Bebi/1.0.0": {
+        "runtime": {
+          "Another Challange Bebi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Another Challange Bebi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

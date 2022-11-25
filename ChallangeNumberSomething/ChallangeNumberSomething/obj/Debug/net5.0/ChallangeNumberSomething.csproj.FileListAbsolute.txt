@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.exe
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.deps.json
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.runtimeconfig.json
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.dll
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\bin\Debug\net5.0\ChallangeNumberSomething.pdb
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.AssemblyInfo.cs
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.dll
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\refint\ChallangeNumberSomething.dll
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.pdb
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ChallangeNumberSomething.genruntimeconfig.cache
+C:\Users\teoma\source\repos\ChallangeNumberSomething\ChallangeNumberSomething\obj\Debug\net5.0\ref\ChallangeNumberSomething.dll

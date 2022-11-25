@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.exe
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.deps.json
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.runtimeconfig.json
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.dll
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\bin\Debug\net5.0\LearningMethods.pdb
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.AssemblyInfo.cs
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.dll
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\refint\LearningMethods.dll
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.pdb
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\LearningMethods.genruntimeconfig.cache
+C:\Users\teoma\source\repos\LearningMethods\LearningMethods\obj\Debug\net5.0\ref\LearningMethods.dll

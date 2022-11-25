@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.exe
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.deps.json
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.runtimeconfig.json
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.dll
+C:\Users\teoma\source\repos\yea\yea\bin\Debug\net5.0\yea.pdb
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.AssemblyInfo.cs
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.dll
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\refint\yea.dll
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.pdb
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\yea.genruntimeconfig.cache
+C:\Users\teoma\source\repos\yea\yea\obj\Debug\net5.0\ref\yea.dll

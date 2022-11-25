@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.AssemblyInfo.cs
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.exe
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.deps.json
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.runtimeconfig.json
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.dll
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\bin\Debug\net5.0\xo game oh nor here we go again.pdb
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.dll
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\refint\xo game oh nor here we go again.dll
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.pdb
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\xo game oh nor here we go again.genruntimeconfig.cache
+C:\Users\teoma\source\repos\xo game oh nor here we go again\xo game oh nor here we go again\obj\Debug\net5.0\ref\xo game oh nor here we go again.dll

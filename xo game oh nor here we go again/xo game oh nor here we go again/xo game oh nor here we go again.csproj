@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>xo_game_oh_nor_here_we_go_again</RootNamespace>
+  </PropertyGroup>
+
+</Project>

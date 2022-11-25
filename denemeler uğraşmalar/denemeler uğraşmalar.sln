@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeler uğraşmalar", "denemeler uğraşmalar\denemeler uğraşmalar.csproj", "{9FDB443A-CD82-434E-B02E-552EFF25D894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDB443A-CD82-434E-B02E-552EFF25D894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDB443A-CD82-434E-B02E-552EFF25D894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDB443A-CD82-434E-B02E-552EFF25D894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDB443A-CD82-434E-B02E-552EFF25D894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76672AE0-82EC-4F77-82DC-965427859415}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.exe
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.deps.json
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.runtimeconfig.json
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.dll
+C:\Users\teoma\source\repos\If Statement work\If Statement work\bin\Debug\net5.0\If Statement work.pdb
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.AssemblyInfo.cs
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.dll
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\refint\If Statement work.dll
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.pdb
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\If Statement work.genruntimeconfig.cache
+C:\Users\teoma\source\repos\If Statement work\If Statement work\obj\Debug\net5.0\ref\If Statement work.dll

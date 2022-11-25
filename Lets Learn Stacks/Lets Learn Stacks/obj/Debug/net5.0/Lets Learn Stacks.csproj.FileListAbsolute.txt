@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.exe
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.deps.json
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.runtimeconfig.json
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.dll
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\bin\Debug\net5.0\Lets Learn Stacks.pdb
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.dll
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\refint\Lets Learn Stacks.dll
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.pdb
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\Lets Learn Stacks.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Lets Learn Stacks\Lets Learn Stacks\obj\Debug\net5.0\ref\Lets Learn Stacks.dll

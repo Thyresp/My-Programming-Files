@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.exe
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.deps.json
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.runtimeconfig.json
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.dll
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\bin\Debug\net5.0\nested for loop and 2d arrays.pdb
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.AssemblyInfo.cs
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.dll
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\refint\nested for loop and 2d arrays.dll
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.pdb
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\nested for loop and 2d arrays.genruntimeconfig.cache
+C:\Users\teoma\source\repos\nested for loop and 2d arrays\nested for loop and 2d arrays\obj\Debug\net5.0\ref\nested for loop and 2d arrays.dll

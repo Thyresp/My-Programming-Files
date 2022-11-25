@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.exe
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.deps.json
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.runtimeconfig.json
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.dll
+C:\Users\teoma\source\repos\xo winner check\xo winner check\bin\Debug\net5.0\xo winner check.pdb
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.AssemblyInfo.cs
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.dll
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\refint\xo winner check.dll
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.pdb
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\xo winner check.genruntimeconfig.cache
+C:\Users\teoma\source\repos\xo winner check\xo winner check\obj\Debug\net5.0\ref\xo winner check.dll

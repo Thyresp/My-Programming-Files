@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.exe
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.deps.json
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.runtimeconfig.json
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.dll
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\bin\Debug\net5.0\Loops C Sharp.pdb
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.dll
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\refint\Loops C Sharp.dll
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.pdb
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\Loops C Sharp.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Loops C Sharp\Loops C Sharp\obj\Debug\net5.0\ref\Loops C Sharp.dll

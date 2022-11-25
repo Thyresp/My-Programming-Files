@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.exe
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.deps.json
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.runtimeconfig.json
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.dll
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\bin\Debug\net5.0\Teacher XO game Solution.pdb
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.dll
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\refint\Teacher XO game Solution.dll
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.pdb
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\Teacher XO game Solution.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Teacher XO game Solution\Teacher XO game Solution\obj\Debug\net5.0\ref\Teacher XO game Solution.dll

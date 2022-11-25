@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.exe
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.deps.json
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.runtimeconfig.json
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.dll
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\bin\Debug\net5.0\LearningArrayLists.pdb
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.AssemblyInfo.cs
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.dll
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\refint\LearningArrayLists.dll
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.pdb
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\LearningArrayLists.genruntimeconfig.cache
+C:\Users\teoma\source\repos\LearningArrayLists\LearningArrayLists\obj\Debug\net5.0\ref\LearningArrayLists.dll

@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.exe
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.deps.json
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.runtimeconfig.json
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.dll
+C:\Users\teoma\source\repos\Min value using params\Min value using params\bin\Debug\net5.0\Min value using params.pdb
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.dll
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\refint\Min value using params.dll
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.pdb
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\Min value using params.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Min value using params\Min value using params\obj\Debug\net5.0\ref\Min value using params.dll

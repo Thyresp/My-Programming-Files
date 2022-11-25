@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.exe
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.deps.json
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.runtimeconfig.json
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.dll
+C:\Users\teoma\source\repos\asdfdas\asdfdas\bin\Debug\net5.0\asdfdas.pdb
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.AssemblyInfo.cs
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.dll
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\refint\asdfdas.dll
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.pdb
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\asdfdas.genruntimeconfig.cache
+C:\Users\teoma\source\repos\asdfdas\asdfdas\obj\Debug\net5.0\ref\asdfdas.dll

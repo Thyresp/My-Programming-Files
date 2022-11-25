@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.exe
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.deps.json
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.runtimeconfig.json
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.dll
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\bin\Debug\net5.0\Ternary Operator Challenge.pdb
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.dll
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\refint\Ternary Operator Challenge.dll
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.pdb
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\Ternary Operator Challenge.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Ternary Operator Challenge\Ternary Operator Challenge\obj\Debug\net5.0\ref\Ternary Operator Challenge.dll

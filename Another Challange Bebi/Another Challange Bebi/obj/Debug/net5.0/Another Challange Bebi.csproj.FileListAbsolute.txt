@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.exe
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.deps.json
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.runtimeconfig.json
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.dll
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\bin\Debug\net5.0\Another Challange Bebi.pdb
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.AssemblyInfo.cs
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.dll
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\refint\Another Challange Bebi.dll
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.pdb
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\Another Challange Bebi.genruntimeconfig.cache
+C:\Users\teoma\source\repos\Another Challange Bebi\Another Challange Bebi\obj\Debug\net5.0\ref\Another Challange Bebi.dll

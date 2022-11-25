@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "xo game oh nor here we go again/1.0.0": {
+        "runtime": {
+          "xo game oh nor here we go again.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xo game oh nor here we go again/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

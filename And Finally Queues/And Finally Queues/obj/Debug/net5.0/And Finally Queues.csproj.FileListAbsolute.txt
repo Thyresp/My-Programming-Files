@@ -1,0 +1,16 @@
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.exe
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.deps.json
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.runtimeconfig.json
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.runtimeconfig.dev.json
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.dll
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\bin\Debug\net5.0\And Finally Queues.pdb
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.AssemblyInfoInputs.cache
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.AssemblyInfo.cs
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.dll
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\refint\And Finally Queues.dll
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.pdb
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\And Finally Queues.genruntimeconfig.cache
+C:\Users\teoma\source\repos\And Finally Queues\And Finally Queues\obj\Debug\net5.0\ref\And Finally Queues.dll

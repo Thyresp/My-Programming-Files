@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop and 2d arrays", "nested for loop and 2d arrays\nested for loop and 2d arrays.csproj", "{9DE63A43-3B8A-4C56-BC48-4081DA2E2671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE63A43-3B8A-4C56-BC48-4081DA2E2671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE63A43-3B8A-4C56-BC48-4081DA2E2671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE63A43-3B8A-4C56-BC48-4081DA2E2671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE63A43-3B8A-4C56-BC48-4081DA2E2671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17076D84-129C-4281-BF4B-8DA841268C9D}
+	EndGlobalSection
+EndGlobal
